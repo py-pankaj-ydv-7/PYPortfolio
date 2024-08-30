@@ -1,0 +1,19 @@
+[
+    {
+      "role": "Frontend-Developer",
+      "organisation": "Breach Curl",
+      "startDate": "Sept, 2022",
+      "endDate": "Present",
+      "experiences": ["Worked on Ecommerce-site", "Art - Store"],
+      "imageSrc": "history/google.png"
+    },
+    {
+      "role": "Web-Developer",
+      "organisation": "Dabotics pvt,India",
+      "startDate": "Aug, 2021",
+      "endDate": "sept, 2021",
+      "experiences": ["Worked on lots of mini projects", "like:- landing pages, "],
+      "imageSrc": "history/microsoft.png"
+    }
+
+  ]
